@@ -1,12 +1,18 @@
-.poppins-thin {
+.poppins {
   font-family: "Poppins", sans-serif;
   font-weight: 100;
   font-style: normal;
 }
 
 
-.hind-siliguri-light {
+.hind-siliguri {
   font-family: "Hind Siliguri", sans-serif;
   font-weight: 300;
+  font-style: normal;
+}
+
+.tiro-bangla {
+  font-family: "Tiro Bangla", serif;
+  font-weight: 400;
   font-style: normal;
 }
